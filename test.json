@@ -1,4 +1,10 @@
 {
+    "AVIS": {
+        "name": "AVIS",
+        "description": "A future project that will be working on! :)",
+        "link": "N/A",
+        "tag": "tool"
+    },
     "TurboChatbot": {
         "name": "Turbo Chatbot",
         "description": "Extension to run chatbots inside turbowarp! Unline SOME AI extensions, this lil guy runs on your local device! If you have a beefy PC, good for you! If you have a potato PC well good luck man",
