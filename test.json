@@ -5,12 +5,6 @@
         "link": "N/A",
         "tag": "tools"
     },
-    "Name Here": {
-        "name": "Also put name here",
-        "description": "description here",
-        "link": "N/A",
-        "tag": "python"
-    },
     "Lunarium": {
         "name": "Lunarium",
         "description": "AI chatbot yay (using interference endpoints, so its faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaast! yay!)",
