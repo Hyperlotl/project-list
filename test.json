@@ -1,4 +1,10 @@
 {
+    "AVIS": {
+        "name": "AVIS",
+        "description": "A future project that I will be working on. Details will be announced at a later date(I will showcase AVIS development through an upcoming animated devlog)",
+        "link": "N/A",
+        "tag": "tools"
+    },
     "Lunarium": {
         "name": "Lunarium",
         "description": "AI chatbot using various endpoints (currently only friendli.ai). The link doesnt work becuz im still in the process of making the interface and whatnot",
@@ -9,6 +15,13 @@
         "name": "Turbo Chatbot",
         "description": "Extension to run chatbots inside turbowarp! Unline SOME AI extensions, this lil guy runs on your local device! If you have a beefy PC, good for you! If you have a potato PC well good luck man",
         "link": "https://github.com/Hyperlotl/Turbo-Chatbot",
+        "tag": "ext"
+    },
+    "TurboPython": {
+        "name": "TurboPython",
+        "description": "An extension that allows you to run Python scripts using Pyodide(IDK if its spelt correctly lol) Supports running multiple scripts and multiple libraries.",
+        "image_url": "https://raw.githubusercontent.com/Hyperlotl/TurboPython/refs/heads/main/turbopython%20banner.png",
+        "link": "https://github.com/Hyperlotl/TurboPython",
         "tag": "ext"
     }
 }
