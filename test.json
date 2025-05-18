@@ -5,6 +5,12 @@
         "link": "N/A",
         "tag": "tools"
     },
+    "Lunarium": {
+        "name": "Lunarium",
+        "description": "AI chatbot using various endpoints (currently only friendli.ai). The link doesnt work becuz im still in the process of making the interface and whatnot",
+        "link": "N/A (Will be changed when I finalise code and interface LOL",
+        "tag": "tools"
+    },
     "TurboChatbot": {
         "name": "Turbo Chatbot",
         "description": "Extension to run chatbots inside turbowarp! Unline SOME AI extensions, this lil guy runs on your local device! If you have a beefy PC, good for you! If you have a potato PC well good luck man",
