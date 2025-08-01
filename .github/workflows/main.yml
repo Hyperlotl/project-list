@@ -3,7 +3,6 @@ name: Update JSON file
 on:
   schedule:
     - cron: "0 0 */1 * *"
-  push:
   workflow_dispatch:
 
 jobs:
@@ -81,7 +80,7 @@ jobs:
           git add test.json
           if ! git diff-index --quiet HEAD --; then
             git commit -m "Updated JSON"
-            git push https://Axolotian-dev:${{ secrets.TOKEN_THING }}@github.com/${{ github.repository }}.git
+            git push https://hyperlotl:${{ secrets.TOKEN_THING }}@github.com/${{ github.repository }}.git
           else
             echo "No changes to commit."
           fi
